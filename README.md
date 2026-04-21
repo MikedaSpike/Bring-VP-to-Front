@@ -1,3 +1,11 @@
+![Latest Release](https://img.shields.io/github/v/release/MikedaSpike/Bring-VP-to-Front)
+![Downloads](https://img.shields.io/github/downloads/MikedaSpike/Bring-VP-to-Front/total)
+![License](https://img.shields.io/github/license/MikedaSpike/Bring-VP-to-Front)
+![Issues](https://img.shields.io/github/issues/MikedaSpike/Bring-VP-to-Front)
+![Last Commit](https://img.shields.io/github/last-commit/MikedaSpike/Bring-VP-to-Front)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/MikedaSpike/Bring-VP-to-Front)
+![Stars](https://img.shields.io/github/stars/MikedaSpike/Bring-VP-to-Front)
+
 # Bring Visual Pinball to Front
 
 This VB.NET program is a lightweight Visual Pinball helper designed to run in the background. It monitors the start and stop of specific Visual Pinball processes and brings the associated window to the front. The application minimizes itself to the system tray and includes logging functionality to track its actions.
